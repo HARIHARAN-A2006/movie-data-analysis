@@ -54,8 +54,7 @@ Movie-Data-Analysis/
 │
 ├── Movie_Data_Analysis.ipynb
 ├── Movie+Assignment+Data.csv
-├── README.md
-└── Images/
+└── README.md/
 ```
 
 ---
